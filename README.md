@@ -38,9 +38,9 @@ And also certified in Python and SQL and Tableau.
 
 <br>
 
-For my tableau work you can check out my viz at 
+For my tableau work you can check out my viz at : <strong><a href="https://public.tableau.com/app/profile/arpit3040#!/">Tableau Viz</a></strong>
 
-For more details you can reach out me at: <a href="https://public.tableau.com/app/profile/arpit3040#!/">Tableau Viz</a> 
+For more details you can reach out me at -
 
  <a href="https://www.linkedin.com/in/arpit-k-agarwal/" rel="nofollow">LinkedIn</a> | arpitagarwal990@gmail.com
  
