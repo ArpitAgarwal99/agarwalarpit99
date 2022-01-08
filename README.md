@@ -42,7 +42,7 @@ For my tableau work you can check out my viz at : <strong><a href="https://publi
 
 For more details you can reach out me at -
 
- <a href="https://www.linkedin.com/in/arpit-k-agarwal/" rel="nofollow">LinkedIn</a> | arpitagarwal990@gmail.com
+ <a href="https://www.linkedin.com/in/arpit-k-agarwal/" rel="nofollow">LinkedIn</a> | <a href="https://www.hackerrank.com/arpitagarwal916">Hackerrank</a> | arpitagarwal990@gmail.com
  
  
 
