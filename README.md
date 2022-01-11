@@ -26,7 +26,7 @@ When in times of leisure, I like to read books in the genre of mystery pyscholog
 
 I have earn some badges, some of them like:
 
-![image](https://user-images.githubusercontent.com/48977528/148635692-152aa89d-fc20-40bb-8a9b-4ccfa355b923.png)
+![image](https://user-images.githubusercontent.com/48977528/148929215-d8c8d2f1-9c88-4404-844c-44105b2df4fd.png)
 
 And also certified in Python and SQL and Tableau.
 
